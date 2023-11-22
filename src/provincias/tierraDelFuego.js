@@ -1,0 +1,28 @@
+const tierraDelFuego = {
+  nombre: "Tierra del Fuego",
+  distanciaEntreProvincias: [
+    { provincia: "Buenos Aires", distancia: 2310 },
+    { provincia: "Catamarca", distancia: 3120 },
+    { provincia: "Chaco", distancia: 3340 },
+    { provincia: "Chubut", distancia: 1040 },
+    { provincia: "Córdoba", distancia: 3228 },
+    { provincia: "Corrientes", distancia: 3260 },
+    { provincia: "Entre Ríos", distancia: 2969 },
+    { provincia: "Formosa", distancia: 3451 },
+    { provincia: "Jujuy", distancia: 3648 },
+    { provincia: "La Pampa", distancia: 2628 },
+    { provincia: "La Rioja", distancia: 3663 },
+    { provincia: "Mendoza", distancia: 3393 },
+    { provincia: "Misiones", distancia: 3568 },
+    { provincia: "Neuquén", distancia: 2523 },
+    { provincia: "Río Negro", distancia: 1763 },
+    { provincia: "Salta", distancia: 3525 },
+    { provincia: "San Juan", distancia: 3453 },
+    { provincia: "San Luis", distancia: 3133 },
+    { provincia: "Santa Cruz", distancia: 593 },
+    { provincia: "Santa Fe", distancia: 3438 },
+    { provincia: "Santiago del Estero", distancia: 3658 },
+    { provincia: "Tucumán", distancia: 3818 },
+  ],
+};
+module.exports = tierraDelFuego;

@@ -1,0 +1,28 @@
+const chaco = {
+  nombre: "Chaco",
+  distanciaEntreProvincias: [
+    { provincia: "Buenos Aires", distancia: 1023 },
+    { provincia: "Catamarca", distancia: 343 },
+    { provincia: "Chubut", distancia: 2193 },
+    { provincia: "Córdoba", distancia: 407 },
+    { provincia: "Corrientes", distancia: 21 },
+    { provincia: "Entre Ríos", distancia: 646 },
+    { provincia: "Formosa", distancia: 348 },
+    { provincia: "Jujuy", distancia: 821 },
+    { provincia: "La Pampa", distancia: 1147 },
+    { provincia: "La Rioja", distancia: 447 },
+    { provincia: "Mendoza", distancia: 1088 },
+    { provincia: "Misiones", distancia: 229 },
+    { provincia: "Neuquén", distancia: 1463 },
+    { provincia: "Río Negro", distancia: 1518 },
+    { provincia: "Salta", distancia: 722 },
+    { provincia: "San Juan", distancia: 854 },
+    { provincia: "San Luis", distancia: 974 },
+    { provincia: "Santa Cruz", distancia: 2865 },
+    { provincia: "Santa Fe", distancia: 533 },
+    { provincia: "Santiago del Estero", distancia: 85 },
+    { provincia: "Tierra del Fuego", distancia: 3911 },
+    { provincia: "Tucumán", distancia: 547 },
+  ],
+};
+module.exports = chaco;

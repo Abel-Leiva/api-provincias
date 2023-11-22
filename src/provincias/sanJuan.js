@@ -1,0 +1,28 @@
+const sanJuan = {
+  nombre: "San Juan",
+  distanciaEntreProvincias: [
+    { provincia: "Buenos Aires", distancia: 1114 },
+    { provincia: "Catamarca", distancia: 461 },
+    { provincia: "Chaco", distancia: 1711 },
+    { provincia: "Chubut", distancia: 1968 },
+    { provincia: "Córdoba", distancia: 748 },
+    { provincia: "Corrientes", distancia: 1630 },
+    { provincia: "Entre Ríos", distancia: 1300 },
+    { provincia: "Formosa", distancia: 2059 },
+    { provincia: "Jujuy", distancia: 939 },
+    { provincia: "La Pampa", distancia: 594 },
+    { provincia: "La Rioja", distancia: 196 },
+    { provincia: "Mendoza", distancia: 166 },
+    { provincia: "Misiones", distancia: 1970 },
+    { provincia: "Neuquén", distancia: 1266 },
+    { provincia: "Río Negro", distancia: 1321 },
+    { provincia: "Salta", distancia: 1028 },
+    { provincia: "San Luis", distancia: 400 },
+    { provincia: "Santa Cruz", distancia: 2696 },
+    { provincia: "Santa Fe", distancia: 1088 },
+    { provincia: "Santiago del Estero", distancia: 890 },
+    { provincia: "Tierra del Fuego", distancia: 3742 },
+    { provincia: "Tucumán", distancia: 734 },
+  ],
+};
+module.exports = sanJuan;

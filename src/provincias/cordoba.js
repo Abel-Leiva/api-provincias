@@ -1,0 +1,28 @@
+let cordoba = {
+  nombre: "Córdoba",
+  distanciaEntreProvincias: [
+    { provincia: "Buenos Aires", distancia: 695 },
+    { provincia: "Catamarca", distancia: 713 },
+    { provincia: "Chaco", distancia: 805 },
+    { provincia: "Chubut", distancia: 1630 },
+    { provincia: "Corrientes", distancia: 724 },
+    { provincia: "Entre Ríos", distancia: 484 },
+    { provincia: "Formosa", distancia: 1153 },
+    { provincia: "Jujuy", distancia: 1191 },
+    { provincia: "La Pampa", distancia: 342 },
+    { provincia: "La Rioja", distancia: 448 },
+    { provincia: "Mendoza", distancia: 470 },
+    { provincia: "Misiones", distancia: 1034 },
+    { provincia: "Neuquén", distancia: 1226 },
+    { provincia: "Río Negro", distancia: 1281 },
+    { provincia: "Salta", distancia: 1280 },
+    { provincia: "San Juan", distancia: 252 },
+    { provincia: "San Luis", distancia: 107 },
+    { provincia: "Santa Cruz", distancia: 2388 },
+    { provincia: "Santa Fe", distancia: 256 },
+    { provincia: "Santiago del Estero", distancia: 654 },
+    { provincia: "Tierra del Fuego", distancia: 3434 },
+    { provincia: "Tucumán", distancia: 998 },
+  ],
+};
+module.exports = cordoba;

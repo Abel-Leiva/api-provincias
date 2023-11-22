@@ -1,0 +1,28 @@
+const mendoza = {
+  nombre: "Mendoza",
+  distanciaEntreProvincias: [
+    { provincia: "Buenos Aires", distancia: 1048 },
+    { provincia: "Catamarca", distancia: 627 },
+    { provincia: "Chaco", distancia: 1315 },
+    { provincia: "Chubut", distancia: 1736 },
+    { provincia: "Córdoba", distancia: 353 },
+    { provincia: "Corrientes", distancia: 1234 },
+    { provincia: "Entre Ríos", distancia: 1041 },
+    { provincia: "Formosa", distancia: 1470 },
+    { provincia: "Jujuy", distancia: 1008 },
+    { provincia: "La Pampa", distancia: 428 },
+    { provincia: "La Rioja", distancia: 432 },
+    { provincia: "Misiones", distancia: 1622 },
+    { provincia: "Neuquén", distancia: 851 },
+    { provincia: "Río Negro", distancia: 906 },
+    { provincia: "Salta", distancia: 1097 },
+    { provincia: "San Juan", distancia: 166 },
+    { provincia: "San Luis", distancia: 261 },
+    { provincia: "Santa Cruz", distancia: 2462 },
+    { provincia: "Santa Fe", distancia: 759 },
+    { provincia: "Santiago del Estero", distancia: 861 },
+    { provincia: "Tierra del Fuego", distancia: 3508 },
+    { provincia: "Tucumán", distancia: 790 },
+  ],
+};
+module.exports = mendoza;
