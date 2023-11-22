@@ -1,4 +1,4 @@
-var provincias = require("./src/provincias/indexProvincias");
+const provincias = require("./src/provincias/indexProvincias");
 
 const express = require("express");
 
